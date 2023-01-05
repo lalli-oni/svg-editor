@@ -5,4 +5,5 @@ export interface Image {
 
 export interface SVG {
 	id: string;
+	content: string;
 }
